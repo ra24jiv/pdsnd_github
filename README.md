@@ -2,10 +2,10 @@
 4th April,2019
 
 ### Project Title
-Replace the Project Title
+Programming for Data Science
 
 ### Description
-Describe what your project is about and what it does
+Explore bikeshare data
 
 ### Files used
 Include the files used
