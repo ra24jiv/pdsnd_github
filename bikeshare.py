@@ -181,6 +181,8 @@ def user_stats(df):
             break
     
 def main():
+
+""" calling all fuctions with arguments given by user"""
     while True:
         city, month, day = get_filters()
         df = load_data(city, month, day)
